@@ -11,12 +11,12 @@ We often use the New Tab as a persistent to-do list, writing the mosts important
 
 1. Install [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en) for [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html).
 
-2. In [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)'s Options page, point the **Redirect URL** to [izziezahorian.com/home](http://izziezahorian.com/home).
+2. In [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)'s Options page, point the **Redirect URL** to [zahoriea.github.io/home](http://zahoriea.github.io/home/).
 
 3. Want to customize your new tab URL? Simply upload these files to whatever domain or subdomain you would like, then follow the instructions above.
 
 You're done!
 
-Now, every time you open a new tab in Google Chrome, you will automatically be directed to [izziezahorian.com/home](http://izziezahorian.com/home) or your custom URL. Edit your new tab with whatever text you would like. It will save automatically and reappear whenever you open up a new tab.
+Now, every time you open a new tab in Google Chrome, you will automatically be directed to [zahoriea.github.io/home/](http://zahoriea.github.io/home/) or your custom URL. Edit your new tab with whatever text you would like. It will save automatically and reappear whenever you open up a new tab.
 
-No longer want your New Tab to redirect to [izziezahorian.com/home](http://izziezahorian.com/home)? Simply uninstall the [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en) extension to restore default settings.
+No longer want your New Tab to redirect to [zahoriea.github.io/home](http://zahoriea.github.io/home/)? Simply uninstall the [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en) extension to restore default settings.
